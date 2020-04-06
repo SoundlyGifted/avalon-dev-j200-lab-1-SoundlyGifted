@@ -1,5 +1,5 @@
 # Задача №1 по курсу «DEV-J200. Java EE. Разработка корпоративных приложений»
-# (avalon-dev-j200-lab-1-SoundlyGifted)
+## (avalon-dev-j200-lab-1-SoundlyGifted)
 
 Написать Web-приложение, реализующее следующий алгоритм:
 
